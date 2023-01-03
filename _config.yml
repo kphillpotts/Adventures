@@ -16,8 +16,9 @@ author:
   author__avatar: '/images/01-1.jpg'
 
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com"}
-- {icon: "ion-logo-facebook", link: "https://facebook.com"}
+- {icon: "ion-logo-twitter", link: "https://twitter.com/kphillpotts"}
+- {icon: "ion-logo-github", link: "https://github.com/kphillpotts"}
+- {icon: "ion-logo-facebook", link: "https://www.facebook.com/kym.phillpotts/"}
 - {icon: "ion-logo-instagram", link: "https://instagram.com"}
 - {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
 - {icon: "ion-logo-youtube", link: "https://youtube.com"}
