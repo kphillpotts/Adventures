@@ -3,8 +3,8 @@
 title: Kym's Adventures
 logo: # /images/01-1.jpg
 description: Sub site to share Kym's adventures and writings
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://kymphillpotts.com/adventures" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/Adventures" # the subpath of your site, e.g. /blog
+url: "https://kymphillpotts.com" # the base hostname & protocol for your site, e.g. http://example.com
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
@@ -32,7 +32,7 @@ social:
 # Hero Settings
 hero:
   hero__title: Adventure is the best way to learn
-  hero__description: Where I write about adventures, travel, and various musings which are probably only interesting for me.
+  hero__description: Where I write about adventures, travel, and various musings which are probably only interesting for me and my family.
   hero__image: images/HobbitHouse.jpg
 
 
