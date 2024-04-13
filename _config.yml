@@ -1,10 +1,10 @@
 #-------------------------------
 # Site Settings
-title: Hobbits In Switzerland
+title: Kym's Adventures
 logo: # /images/01-1.jpg
-description: Menca personal blogging theme for Jekyll
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://hobbitsinswitzerland.com" # the base hostname & protocol for your site, e.g. http://example.com
+description: Sub site to share Kym's adventures and writings
+baseurl: "/adventures" # the subpath of your site, e.g. /blog
+url: "https://kymphillpotts.com" # the base hostname & protocol for your site, e.g. http://example.com
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
@@ -22,6 +22,7 @@ social:
 - {icon: "ion-logo-instagram", link: "https://instagram.com"}
 - {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
 - {icon: "ion-logo-youtube", link: "https://youtube.com"}
+- {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/v4/
