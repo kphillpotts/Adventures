@@ -31,8 +31,8 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Australian Hobbits
-  hero__description: Experiencing the joys and wonder of living in Switzerland.
+  hero__title: Adventure is the best way to learn
+  hero__description: Where I write about adventures, travel, and various musings which are probably only interesting for me.
   hero__image: images/HobbitHouse.jpg
 
 
