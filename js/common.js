@@ -85,7 +85,7 @@ document.addEventListener("DOMContentLoaded", function() {
   SimpleJekyllSearch({
     searchInput: document.getElementById("js-search-input"),
     resultsContainer: document.getElementById("js-results-container"),
-    json: "https://HobbitsInSwitzerland.com//search.json",
+    json: "/search.json",
     searchResultTemplate: '{article}',
     noResultsText: '<h3 class="no-results">No results found</h3>'
   });
