@@ -12,17 +12,14 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 # Author Settings
 author:
   author__name: Kym Phillpotts
-  author__bio: Elder Hobbit.
-  author__avatar: 'images/01-1.jpg'
+  author__bio: Just this guy!!
+  author__avatar: 'images/kym_profile.png'
 
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com/kphillpotts"}
 - {icon: "ion-logo-github", link: "https://github.com/kphillpotts"}
 - {icon: "ion-logo-facebook", link: "https://www.facebook.com/kym.phillpotts/"}
-- {icon: "ion-logo-instagram", link: "https://instagram.com"}
-- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
 - {icon: "ion-logo-youtube", link: "https://youtube.com"}
-- {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/v4/
@@ -30,18 +27,18 @@ social:
 
 #-------------------------------
 # Hero Settings
-hero:
-  hero__title: Adventure is the best way to learn
-  hero__description: Where I write about adventures, travel, and various musings which are probably only interesting for me and my family.
-  hero__image: images/HobbitHouse.jpg
+#hero:
+#  hero__title: Adventure is the best way to learn
+#  hero__description: Where I write about adventures, travel, and various musings which are probably only interesting for me and my family.
+#  hero__image: images/HobbitHouse.jpg
 
 
 #-------------------------------
 # Newsletter
-mailchimp: enable # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
-mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
-mailchimp__input__text: Subscribe here
-mailchimp__button__text: Stay notified
+#mailchimp: enable # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
+#mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+#mailchimp__input__text: Subscribe here
+#mailchimp__button__text: Stay notified
 
 
 #-------------------------------

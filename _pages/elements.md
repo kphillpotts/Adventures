@@ -115,15 +115,15 @@ li {
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/100.jpg">
-    <img src="/images/101.jpg">
-    <img src="/images/102.jpg">
-    <img src="/images/103.jpg">
-    <img src="/images/104.jpg">
-    <img src="/images/105.jpg">
-    <img src="/images/106.jpg">
-    <img src="/images/107.jpg">
-    <img src="/images/108.jpg">
+    <img src="{{site.baseurl}}/images/100.jpg">
+    <img src="{{site.baseurl}}/images/101.jpg">
+    <img src="{{site.baseurl}}/images/102.jpg">
+    <img src="{{site.baseurl}}/images/103.jpg">
+    <img src="{{site.baseurl}}/images/104.jpg">
+    <img src="{{site.baseurl}}/images/105.jpg">
+    <img src="{{site.baseurl}}/images/106.jpg">
+    <img src="{{site.baseurl}}/images/107.jpg">
+    <img src="{{site.baseurl}}/images/108.jpg">
   </div>
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
