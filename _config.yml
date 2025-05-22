@@ -27,10 +27,10 @@ social:
 
 #-------------------------------
 # Hero Settings
-#hero:
-#  hero__title: Adventure is the best way to learn
-#  hero__description: Where I write about adventures, travel, and various musings which are probably only interesting for me and my family.
-#  hero__image: images/HobbitHouse.jpg
+hero:
+  hero__title: Adventure is the best way to learn
+  hero__description: Where I write about adventures, travel, and various musings which are probably only interesting for me and my family.
+  hero__image: images/HobbitHouse.jpg
 
 
 #-------------------------------
